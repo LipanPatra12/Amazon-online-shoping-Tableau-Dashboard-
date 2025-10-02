@@ -20,5 +20,9 @@ The Amazon Shopping Insights Dashboard is a visually engaging and analytical Tab
 Source: Amazon Sales Dataset (Kaggle Public Dataset).
 
 ## Features / Highlights
+### Business problem
+E-commerce businesses like Amazon need clear insights into which products, categories, and regions drive profitability.
+Without this analysis, it’s challenging to optimize inventory, pricing, and marketing strategies.
+This project aims to provide an interactive profit summary dashboard to support data-driven decisions.
 
 
