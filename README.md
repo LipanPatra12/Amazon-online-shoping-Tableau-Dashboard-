@@ -9,8 +9,11 @@ The Amazon Shopping Insights Dashboard is a visually engaging and analytical Tab
 
 ## Tech Stack
 📊 Tableau Desktop / Tableau Public – Primary data visualization platform used for creating and publishing the dashboard.
+
 🧮 Calculated Fields & LOD Expressions – Used to derive profit measures, dynamic KPIs, and advanced aggregations.
+
 📝 Data Modeling – Relationships established among dimensions (Category, Sub-Category, Region, etc.) and fact tables to enable accurate filtering and analysis.
+
 📁 File Format – .twbx for packaged workbook (development + sharing) and .png for dashboard previews.
 
 ## Data Source
