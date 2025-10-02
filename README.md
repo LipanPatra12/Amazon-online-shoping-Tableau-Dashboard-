@@ -73,6 +73,8 @@ Regional Analysis: Decision-makers can compare regional performance to allocate 
 
 ## 6.	Screenshots / Demos
 
+https://github.com/LipanPatra12/Amazon-online-shoping-Tableau-Dashboard-/blob/main/tabeau%20dashboard%20screenshot.png
+
 
 
 
