@@ -25,4 +25,43 @@ E-commerce businesses like Amazon need clear insights into which products, categ
 Without this analysis, it’s challenging to optimize inventory, pricing, and marketing strategies.
 This project aims to provide an interactive profit summary dashboard to support data-driven decisions.
 
+#### Key Questions & Insights
+Which product categories and sub-categories generate the highest profit?
+In the Technology category, the Copiers sub-category generates the highest profit.
+
+How does profit vary across different regions?
+Profit ranking by region is: West → East → South → Central.
+
+Which state is the top-performing in terms of profit?
+California leads as the most profitable state.
+
+Which segment needs strategic improvement to boost profits?
+The Home Office segment shows potential for improvement.
+
+## Goal of the Dashboard:
+Enables users to explore Amazon’s sales and profit performance across multiple dimensions.
+Supports decisions such as product strategy, inventory optimization, and regional marketing.
+Uncovers trends in category profitability, regional performance, and customer segment behavior.
+
+## Walkthrough of Key Visuals
+Total profit generated: $286,397
+
+Highest profit month: December
+
+Category with largest sales volume: Technology
+
+Region with fastest growth in profit: East
+
+Profit vs Sales (Segment-wise): Scatter chart used to analyze the relationship between profit and sales across different customer segments.
+
+City-wise Profit Analysis: Bar chart visualizes profit distribution across cities to identify top-performing locations.
+
+Region Profit Ranking: Bump chart ranks regions based on their profit performance over time.
+
+Profit by Region Comparison: Grouped bar chart compares profit across regions for deeper insights.
+
+Category-wise Profit: Waterfall chart highlights profit contributions from each category, showing how each impacts overall profitability.
+
+
+
 
