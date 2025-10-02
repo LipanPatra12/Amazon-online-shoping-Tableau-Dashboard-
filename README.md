@@ -17,3 +17,8 @@ The Amazon Shopping Insights Dashboard is a visually engaging and analytical Tab
 📁 File Format – .twbx for packaged workbook (development + sharing) and .png for dashboard previews.
 
 ## Data Source
+Source: Amazon Sales Dataset (Kaggle Public Dataset).
+
+## Features / Highlights
+
+
